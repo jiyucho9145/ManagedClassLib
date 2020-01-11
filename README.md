@@ -1,5 +1,5 @@
 # ManagedClassLib
-ManagedClassLib is a C language class library which consists of several managed classes to make a small CUI tool.
+ManagedClassLib is a C-language class library consisting of several managed classes to make a small CUI tool.
 
 ## Requirement
 - OS: Linux or macOS
