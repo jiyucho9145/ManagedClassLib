@@ -8,7 +8,7 @@ ManagedClassLib is a C-language class library consisting of several managed clas
 
 ## Installation
 1. Clone this repository.
-2. Change a directory into `bin` directory.
+2. Navigate to `bin` directory.
 3. Run `make` command.
 4. In order to test results of installation, run `./greeting` program.
 
