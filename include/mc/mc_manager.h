@@ -13,7 +13,7 @@ void mc_free_manager(mc_manager *mg);
 /* Creates an object. */
 mc_object_ptr mc_new_object(mc_manager *mg, mc_size s);
 
-/* Creates an  array. */
+/* Creates an array. */
 mc_object_ptr mc_new_array(mc_manager *mg, mc_size c, mc_size s);
 
 /* Converts a pointer of an object into a reference of it.*/
